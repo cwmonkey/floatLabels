@@ -1,4 +1,4 @@
-## About floatLabels.js:
+## About floatLabels:
 
 A jQuery (and Zepto) form "float label" plugin.
 
