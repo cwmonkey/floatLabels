@@ -20,7 +20,7 @@ var defaults = {
 	// Prepend for added classes
 	prepend: 'js-float-labels-',
 	// Filter out inputs which would get messed up by floating labels, add your own if this list gets out of date
-	filter: '[type="submit"], [type="hidden"], [type="image"], [type="button"], [type="image"], [type="date"]'
+	filter: '[type="checkbox"], [type="submit"], [type="hidden"], [type="image"], [type="button"], [type="image"], [type="date"]'
 };
 
 // Adds a filled class to an input's wrapper
